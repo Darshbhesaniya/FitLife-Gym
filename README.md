@@ -1,16 +1,34 @@
-# React + Vite
+# 🏋️ FitLife Gym
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FitLife Gym is a modern **fully responsive frontend gym website** built using **React JS** and **Tailwind CSS**.  
+The project is designed to deliver a clean UI, smooth user experience, and responsive layout across **all devices**.
 
-Currently, two official plugins are available:
+> ⚠️ Note: This is a **frontend-only project** and does not include backend functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
+- Fully responsive design (Mobile, Tablet, Desktop)
+- Modern and clean gym website UI
+- Component-based architecture using React
+- Smooth navigation between sections
+- Clean and maintainable code structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Website Sections
+The website consists of the following **four main sections**:
+1. **Home** – Introduction and hero section
+2. **Trainers** – Information about gym trainers
+3. **Opinions** – Client testimonials and feedback
+4. **Contact Us** – User inquiry and contact section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React JS**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+
